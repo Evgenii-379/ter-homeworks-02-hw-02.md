@@ -190,6 +190,8 @@ test = [
 
 - ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-13%20171936.png)
 - ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-13%20180719.png)
+- ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-17%20194442.png)
+
 
  1. Добавил ключ в файл ~./authorized_key.json для инициализации 
  2. В файле main.tf: измение синтаксической ошибки, вместо "standart-v4" исправил букву на d "standard-v4" так как постоянно выдаёт ошибку
@@ -199,9 +201,13 @@ test = [
 
 
 ## **Задание 2**
+## **Задание 3**
+## **Задание 4**
 
-- ![scrinshot](https://github.com/
-- ![scrinshot](https://github.com/
-- ![scrinshot](https://github.com/
-- ![scrinshot](https://github.com/
-- ![scrinshot](https://github.com/
+- ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-17%20205732.png)
+
+
+## **Задание 6**
+
+- ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-19%20205526.png)
+
