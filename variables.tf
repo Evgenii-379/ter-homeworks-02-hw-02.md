@@ -93,8 +93,8 @@ variable "metadata" {
 #  description = "Core fraction for the compute instance"
 #}
  
-#variable "vm_web_image_family" {
-#  type        = string
-#  default     = "ubuntu-2004-lts"
-#  description = "Family of the image used for the boot disk"
-#}
+variable "vm_web_image_family" {
+  type        = string
+  default     = "ubuntu-2004-lts"
+  description = "Family of the image used for the boot disk"
+}
