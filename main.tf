@@ -15,7 +15,7 @@ data "yandex_compute_image" "ubuntu" {
 }
  
 resource "yandex_compute_instance" "platform" {
-#  name        = local.vm_web_name
+  name        = local.vm_web_name
 #  name        = var.vm_web_name
   platform_id = var.vm_web_platform_id
  
@@ -70,7 +70,7 @@ resource "yandex_vpc_subnet" "develop_db" {
 }
  
 resource "yandex_compute_instance" "platform_db" {
-#  name        = local.vm_db_name
+  name        = local.vm_db_name
 #  name        = var.vm_db_name
   platform_id = var.vm_db_platform_id
   zone = "ru-central1-b"
