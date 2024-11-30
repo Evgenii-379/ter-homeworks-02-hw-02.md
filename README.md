@@ -213,7 +213,7 @@ test = [
 - ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-23%20134741.png)
 - ![scrinshot](https://github.com/Evgenii-379/ter-homeworks-02-hw-02.md/blob/main/Снимок%20экрана%202024-11-23%20135543.png)
 
-
+____
 
 
 
